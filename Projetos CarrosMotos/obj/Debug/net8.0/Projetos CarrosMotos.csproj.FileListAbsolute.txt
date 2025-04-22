@@ -1,0 +1,14 @@
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\bin\Debug\net8.0\Projetos CarrosMotos.exe
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\bin\Debug\net8.0\Projetos CarrosMotos.deps.json
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\bin\Debug\net8.0\Projetos CarrosMotos.runtimeconfig.json
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\bin\Debug\net8.0\Projetos CarrosMotos.dll
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\bin\Debug\net8.0\Projetos CarrosMotos.pdb
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.AssemblyInfoInputs.cache
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.AssemblyInfo.cs
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.dll
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\refint\Projetos CarrosMotos.dll
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.pdb
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\Projetos CarrosMotos.genruntimeconfig.cache
+C:\Users\Raul\Documents\Faculdade\POO\Estudando para provas\Projetos CarrosMotos\obj\Debug\net8.0\ref\Projetos CarrosMotos.dll
